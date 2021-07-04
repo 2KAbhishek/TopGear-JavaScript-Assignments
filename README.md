@@ -1,24 +1,24 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/JavaScript-Assignments">JavaScript-Assignments</a></h1>
+<h1><a href="https://2kabhishek.github.io/TopGear-JavaScript-Assignments">TopGear-JavaScript-Assignments</a></h1>
 
-<a href="https://github.com/2KAbhishek/JavaScript-Assignments/blob/master/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/JavaScript-Assignments?style=plastic&color=white&label=License"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-JavaScript-Assignments/blob/master/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/2kabhishek/TopGear-JavaScript-Assignments?style=plastic&color=white&label=License"> </a>
 
-<a href="https://github.com/2KAbhishek/JavaScript-Assignments/pulse">
-<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/JavaScript-Assignments?style=plastic&color=e30724&label=Updated"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-JavaScript-Assignments/pulse">
+<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/TopGear-JavaScript-Assignments?style=plastic&color=e30724&label=Updated"> </a>
 
-<a href="https://github.com/2KAbhishek/JavaScript-Assignments/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/JavaScript-Assignments?style=plastic&color=00d451&label=Stars"></a>
+<a href="https://github.com/2KAbhishek/TopGear-JavaScript-Assignments/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/TopGear-JavaScript-Assignments?style=plastic&color=00d451&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/JavaScript-Assignments/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/JavaScript-Assignments?style=plastic&color=1688f0&label=Forks"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-JavaScript-Assignments/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/TopGear-JavaScript-Assignments?style=plastic&color=1688f0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/JavaScript-Assignments/watchers">
-<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/JavaScript-Assignments?style=plastic&color=ff5500&label=Watchers"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-JavaScript-Assignments/watchers">
+<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/TopGear-JavaScript-Assignments?style=plastic&color=ff5500&label=Watchers"> </a>
 
-<a href="https://github.com/2KAbhishek/JavaScript-Assignments/graphs/contributors">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/JavaScript-Assignments?style=plastic&color=f0f&label=Contributors"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-JavaScript-Assignments/graphs/contributors">
+<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/TopGear-JavaScript-Assignments?style=plastic&color=f0f&label=Contributors"> </a>
 
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
@@ -26,19 +26,19 @@
 <h2>Short sweet headline with 🎇🎉</h2>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/JavaScript-Assignments/master/images/screenshot.jpg" alt="JavaScript-Assignments Demo" style="width:100%">
-  <figcaption>JavaScript-Assignments Screenshot</figcaption>
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/TopGear-JavaScript-Assignments/master/images/screenshot.jpg" alt="TopGear-JavaScript-Assignments Demo" style="width:100%">
+  <figcaption>TopGear-JavaScript-Assignments Screenshot</figcaption>
 </figure>
 
 </div>
 
 ## Inspiration
 
-Bareminimum was inspired by `<reason/idea>`.
+TopGear-JavaScript-Assignments was inspired by `<reason/idea>`.
 
 ## What it does
 
-JavaScript-Assignments is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+TopGear-JavaScript-Assignments is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
@@ -46,17 +46,17 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of `<coding_language/dependency/requirement_1>`
 
-## Installing JavaScript-Assignments
+## Installing TopGear-JavaScript-Assignments
 
-To install JavaScript-Assignments, follow these steps:
+To install TopGear-JavaScript-Assignments, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/JavaScript-Assignments
-cd JavaScript-Assignments
+git clone https://github.com/2kabhishek/TopGear-JavaScript-Assignments
+cd TopGear-JavaScript-Assignments
 <install_command>
 ```
 
-## Using JavaScript-Assignments
+## Using TopGear-JavaScript-Assignments
 
 ```bash
 USAGE:
@@ -76,15 +76,15 @@ Example:
 
 ## How it was built
 
-JavaScript-Assignments was built using `<tech/library>`
+TopGear-JavaScript-Assignments was built using `<tech/library>`
 
 ## Challenges faced
 
-While building JavaScript-Assignments the main challenges were `<issue/difficulty>`
+While building TopGear-JavaScript-Assignments the main challenges were `<issue/difficulty>`
 
 ## What I learned
 
-While building JavaScript-Assignments I `<learned/accomplished>` about `<learning/accomplishment>`
+While building TopGear-JavaScript-Assignments I `<learned/accomplished>` about `<learning/accomplishment>`
 
 ## What's next
 
@@ -102,7 +102,7 @@ Hit the :star: button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/JavaScript-Assignments">Source</a> |
-<a href="https://2kabhishek.github.io/JavaScript-Assignments">Website</a>
+<a href="https://github.com/2KAbhishek/TopGear-JavaScript-Assignments">Source</a> |
+<a href="https://2kabhishek.github.io/TopGear-JavaScript-Assignments">Website</a>
 
 </div>
